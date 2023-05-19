@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "709534543926",
+    "project_id": "mytangotyo",
+    "storage_bucket": "mytangotyo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709534543926:android:d0c2bb17403b22c136e897",
+        "android_client_info": {
+          "package_name": "com.yawara.my_tangotyo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709534543926-kg84c32k5m1n040jpsfpfou082llf2ce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yawara.my_tangotyo",
+            "certificate_hash": "cb26796a462ac1fdc88f3ec30570eaaf1987b1a6"
+          }
+        },
+        {
+          "client_id": "709534543926-e4en7c52lis3st9hp1gtluahpj5pv2fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFbMffCd4nnPu6mD754yCX1wizlGKDWto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709534543926-e4en7c52lis3st9hp1gtluahpj5pv2fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
